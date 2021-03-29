@@ -1,0 +1,12 @@
+// Functional scss files
+@import "variables";
+@import "mixins";
+@import "animations";
+
+// different components
+@import "globals";
+@import "header";
+@import "hero";
+@import "feature";
+@import "article";
+@import "footer";
